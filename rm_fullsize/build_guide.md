@@ -32,7 +32,7 @@ Optional, if purchased separately:
 
 Remove the USB Daughter board from the PCB. It will break off at the perforations, but may leave some material behind. Use pliers and/or a file to remove any remaining perforated PCB Material from both the daughter board and keyboard PCB, as it may impact the side of the case when assembled.
 
-![](image/1.jpg)
+![](images/1.jpg)
 
 If you purchased a hotswap PCB, please read the [Hotswap addendum, part 1](addendum_1.md)
 
