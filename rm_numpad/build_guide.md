@@ -8,14 +8,18 @@
 -  Knob
 -  2 aluminum 4 degree feet
 -  2 aluminum 7 degree spacers (optional)
--  4 button head mounting screws
--  2 flat head feet screws
--  1 knob set screw
+-  4 button head mounting screws (M2x5mm)
+-  2 flat head feet screws (M3x6mm)
+-  1 knob set screw (M2.5x5mm)
 -  2x allen wrenches
--  1 encoder
+-  1 encoder (These are the two I included with my kits:)
+   - <https://www.digikey.com/en/products/detail/bourns-inc/PEC11L-4115F-S0020/4699168>
+   - <https://www.digikey.com/en/products/detail/bourns-inc/PEC11L-4015F-S0020/4699163>
 -  1 USB-C plug
+   - <https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662>
 -  4 rubber feet
--  4 plastic washers (optional, only for PCB v1.2)
+   - <https://www.amazon.com/gp/product/B07KVGPYBL?ie=UTF8&psc=1>
+-  4 M2 plastic washers (optional, only for PCB v1.2)
 
 ![](images/1.jpg)
 
